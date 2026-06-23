@@ -17,7 +17,7 @@
 - 📱 Built **SpotLet** — a map-based rental discovery app deployed on Android, iOS & Web from scratch
 - 🌐 Full stack developer working with **React Native, TypeScript, Python & Flask** end-to-end
 - 📊 Upskilling in **AI & Data Engineering** — currently a Data Guide at Infinitix, mentoring juniors
-- 🎯 B.Tech CSE (Data Science) @ SRIST — CGPA **8.98** | Passionate about apps that solve real problems
+- 🎯 B.Tech CSE (Data Science) @ SNIST — CGPA **9.01** | Passionate about apps that solve real problems
 
 ---
 
